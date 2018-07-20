@@ -1,0 +1,11 @@
+{
+  "name": "relay-get",
+  "version": "1.0.0",
+  "description": "relays a get Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gott50",
+  "license": "ISC"
+}

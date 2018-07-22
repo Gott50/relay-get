@@ -14,7 +14,7 @@ async function relayRequest(url) {
 async function request(query) {
     let response = await fetch(query);
     let text = await parsResponse(response);
-    return JSON.parse(text);
+    return text;
 }
 
 async function parsResponse(response) {

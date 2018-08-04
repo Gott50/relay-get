@@ -1,4 +1,5 @@
 {
-  "type": "static",
+  "name": "relay-get",
+  "type": "docker",
   "public": true
 }

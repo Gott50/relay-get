@@ -1,5 +1,6 @@
 {
   "name": "relay-get",
+  "alias": "relay-get",
   "type": "docker",
   "public": true
 }

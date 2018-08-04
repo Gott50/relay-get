@@ -1,3 +1,5 @@
 {
-  "name": "relay-get"
+  "name": "relay-get",
+  "type": "static",
+  "public": true
 }

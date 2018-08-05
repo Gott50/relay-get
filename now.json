@@ -1,6 +1,6 @@
 {
   "name": "relay-get",
-  "alias": "relay-get",
+  "alias": "relay-get.now.sh",
   "type": "docker",
   "public": true
 }
